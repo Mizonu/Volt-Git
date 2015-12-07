@@ -1,6 +1,6 @@
-#########
+﻿#########
 #
-#  GIT
+#  GIT 
 #
 #########
 - Pourquoi?
@@ -87,6 +87,6 @@ Merge -> ajoute les modifications ensemble. Cela se fait automatiquement sauf en
 Fork -> copie personnelle d'un projet
 Pull Request -> proposition d'amélioration au projet initial
 
-
+Mais je comprends rien ??!?!?! C'est normal ?
 
 
